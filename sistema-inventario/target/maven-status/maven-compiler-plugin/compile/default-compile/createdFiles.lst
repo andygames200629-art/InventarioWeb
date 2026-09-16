@@ -1,0 +1,5 @@
+com\sena\sistemainventario\controlador\ProductoControlador.class
+com\sena\sistemainventario\repositorio\ProductoRepositorio.class
+com\sena\sistemainventario\sistemaInventarioApplication.class
+com\sena\sistemainventario\entidad\Producto.class
+com\sena\sistemainventario\service\ProductoService.class
